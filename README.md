@@ -23,7 +23,7 @@ This project is a QR code generator website that enables users to create QR code
 ## Usage
 
 To use the QR Code Generator:
-1. Open [the live version here](https://qrgen.netlify.app/) in a web browser.
+1. Open [the live version here](https://qr-code-by-tech-ninja.netlify.app/) in a web browser.
 2. Enter the URL or message in the provided input field.
 3. Click the 'Generate' button to create the QR code instantly.
 4. To save the generated QR code, click the 'Save' button.
